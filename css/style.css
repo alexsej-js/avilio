@@ -63,13 +63,26 @@ body {
     min-height: 85px;
     align-items: center;
 }
+/* corusel */
+.corusel-slid {
+    margin-bottom: 60px;
+}
+.slide-img {
+    /* max-height: 800px; */
+}
+.carusel-img__desc {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    width: 30%;
+}
 .main-foto {
     width: 100%;
     /* min-height: 100vh;
     background-attachment: fixed;
     top: 0;
     left: 0; */
-    background-image: url(../img/BG.png);
+    background-image: url(../img/BG1.JPG);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
