@@ -68,13 +68,12 @@ body {
     margin-bottom: 60px;
 }
 .slide-img {
-    /* max-height: 800px; */
+    max-height: 700px;
 }
 .carusel-img__desc {
     position: absolute;
     top: 20%;
     left: 10%;
-    width: 30%;
 }
 .main-foto {
     width: 100%;
